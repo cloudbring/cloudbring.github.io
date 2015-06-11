@@ -2,7 +2,7 @@
 title: Ship it now and Name it Later
 email: emmanuelm@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  As the title says, this things like descriptions and colophons shouldn\'t stop you from shipping. Ever.
+  As the title says, this things like descriptions and colophons shouldn't stop you from shipping. Ever.
 # baseurl is set by Github so, leave it alone
 #baseurl: "" # the subpath of your site, e.g. /blog/
 # Will hopefully change this to something other than cloudbring.github.io
